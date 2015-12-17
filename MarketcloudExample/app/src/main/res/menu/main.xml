@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="200"
+        android:title="@string/search_title"
+        android:icon="@drawable/ic_search_white_24dp"
+        app:showAsAction="ifRoom"
+        android:onClick="searchItem"
+        />
+    <item
+        android:id="@+id/action_cart"
+        android:orderInCategory="100"
+        android:title="@string/cart_title"
+        android:icon="@drawable/ic_shopping_cart_white_24dp"
+        app:showAsAction="always"
+        android:onClick="openCart" />
+</menu>

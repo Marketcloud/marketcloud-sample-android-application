@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MarketcloudExample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="logo_descr">logo</string>
+    <string name="appname">Marketcloud Example</string>
+    <string name="info_mail">info@marketcloud.it</string>
+    <string name="settings_title">Settings</string>
+    <string name="cart">Cart</string>
+    <string name="prod_list">Products List</string>
+    <string name="home">Home</string>
+    <string name="welcome_general">Welcome!</string>
+    <string name="slideshow_descr">slideshow</string>
+    <string name="prod_descr">product_descr</string>
+    <string name="prod_title">Product</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="list_title">Products list</string>
+    <string name="prod_img">prod_img</string>
+    <string name="add_to_cart_button">add_to_cart_button</string>
+    <string name="sample_text">Sample text</string>
+    <string name="prod_name">prod_image</string>
+    <string name="close_dialog">Close</string>
+    <string name="browse_cat">Browse products by category:</string>
+    <string name="search">search_icon_toolbar</string>
+    <string name="search_title">Search</string>
+    <string name="search_title_2">Search products database</string>
+    <string name="in_text">Filter by: </string>
+    <string name="results_title">Results</string>
+    <string name="no_results">No results</string>
+    <string name="cart_title">Cart</string>
+    <string name="checkout_button">Checkout</string>
+    <string name="remove">remove button</string>
+    <string name="base_qty">1</string>
+    <string name="qty_text">Quantity:</string>
+    <string name="browse_prod">Browse products:</string>
+    <string name="main_banner_title">main banner</string>
+</resources>

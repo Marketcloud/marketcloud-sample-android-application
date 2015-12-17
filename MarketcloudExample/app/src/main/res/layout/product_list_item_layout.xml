@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="88dp"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp"
+    android:onClick="ItemClickHandler">
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:id="@+id/prod"
+        android:src="@drawable/no_pic"
+        android:contentDescription="@string/prod_name"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="8dp"
+        android:paddingStart="8dp"
+        android:paddingRight="8dp"
+        android:paddingEnd="8dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textView6"
+            android:text="@string/sample_text"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:maxWidth="200dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/textView8"
+            android:text="@string/sample_text"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:maxWidth="200dp"/>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageButton
+            android:paddingLeft="12dp"
+            android:paddingStart="12dp"
+            android:paddingRight="12dp"
+            android:paddingEnd="12dp"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:id="@+id/button2"
+            android:background="@drawable/buttongradient"
+            android:src="@drawable/ic_add_shopping_cart_black_18dp"
+            android:contentDescription="@string/add_to_cart_button" />
+
+    </FrameLayout>
+
+</LinearLayout>

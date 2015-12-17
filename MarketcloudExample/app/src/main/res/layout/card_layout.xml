@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:prefix="http://schemas.android.com/apk/res-auto"
+    android:layout_weight="1"
+    tools:ignore="UseCompoundDrawables"
+    prefix:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_gravity="center_horizontal"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/no_pic"
+            android:contentDescription="@string/slideshow_descr"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/sample_text"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:maxWidth="120dp"
+            android:id="@+id/textView3"
+            tools:ignore="RtlSymmetry" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
