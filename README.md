@@ -21,31 +21,31 @@ Available soon: a complete series of articles containing a detailed tutorial and
 
 Home page 
 
-![Home page](http://marketcloudstatic01.blob.core.windows.net/images/Home.png)
+![Home page](/MarketcloudExample/screenshots/Home.png)
 
 Product list
 
-![Product list](http://marketcloudstatic01.blob.core.windows.net/images/Products%20list.png)
+![Product list](/MarketcloudExample/screenshots/Products%20list.png)
 
 Product overview
 
-![Product overview](http://marketcloudstatic01.blob.core.windows.net/images/Product%20overview.png)
+![Product overview](/MarketcloudExample/screenshots/Product%20overview.png)
 
 Search view
 
-![Search view](http://marketcloudstatic01.blob.core.windows.net/images/Search.png)
+![Search view](/MarketcloudExample/screenshots/Search.png)
 
 Cart
 
-![Cart](http://marketcloudstatic01.blob.core.windows.net/images/Cart.png)
+![Cart](/MarketcloudExample/screenshots/Cart.png)
 
 Navigation drawer
 
-![Navigation drawer](http://marketcloudstatic01.blob.core.windows.net/images/Navigation%20drawer.png)
+![Navigation drawer](/MarketcloudExample/screenshots/Navigation%20drawer.png)
 
 Toolbar
 
-![Toolbar](http://marketcloudstatic01.blob.core.windows.net/images/Toolbar.png)
+![Toolbar](/MarketcloudExample/screenshots/Toolbar.png)
 
 ## License ##
 
