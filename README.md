@@ -1,4 +1,4 @@
-# marketcloud-android-sample #
+# Marketcloud Android Sample ![Logo](/MarketcloudExample/screenshots/logo_64.png)#
 
 ## Sample Android application that implements the Marketcloud Android SDK ##
 
