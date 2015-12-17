@@ -2,7 +2,7 @@
 
 ## Sample Android application that implements the Marketcloud Android SDK ##
 
-This sample implements some basic features that may be implemented using Marketcloud Android SDK.
+This sample implements some basic features that may be implemented using [Marketcloud-Android-SDK](https://github.com/Marketcloud/marketcloud-android-sdk.git)
 
 Implemented features:
 
