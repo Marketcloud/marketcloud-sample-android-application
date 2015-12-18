@@ -1,4 +1,4 @@
-# Marketcloud Android Sample ![Logo](/MarketcloudExample/screenshots/logo_64.png)#
+# Marketcloud Sample Android™ Application ![Logo](/MarketcloudExample/screenshots/logo_64.png)#
 
 ## Sample Android application that implements the Marketcloud Android SDK ##
 
@@ -48,6 +48,10 @@ Toolbar
 ![Toolbar](/MarketcloudExample/screenshots/Toolbar.png)
 
 ## License ##
+
+1. Android™ is a copyright of Google Inc. and is used here according to the [Legal Notice](http://developer.android.com/legal.html).
+
+2. For the SDK:
 
 Copyright 2015 [Marketcloud](http://www.marketcloud.it)
 
