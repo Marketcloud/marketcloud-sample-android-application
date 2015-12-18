@@ -51,7 +51,7 @@ Toolbar
 
 1. Android™ is a copyright of Google Inc. and is used here according to the [Legal Notice](http://developer.android.com/legal.html).
 
-2. For the SDK:
+2. For the Sample Application:
 
 Copyright 2015 [Marketcloud](http://www.marketcloud.it)
 
