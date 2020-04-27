@@ -1,3 +1,10 @@
+## Please be advised that this project is no longer maintained.
+
+
+
+
+
+
 # Marketcloud Sample Android™ Application ![Logo](/MarketcloudExample/screenshots/logo_64.png)#
 
 ## Sample Android application that implements the Marketcloud Android SDK ##
